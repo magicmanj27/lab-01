@@ -1,0 +1,130 @@
+.a {
+    background-color: blue;
+    height: 75px;
+    line-height: 75px;
+    width: 480px;
+}
+
+.b {
+    background-color: green;
+    height: 150px;
+    line-height: 150px;
+    width: 480px;
+}
+
+.c {
+    background-color: red;
+    height: 125px;
+    line-height: 125px;
+    width: 480px;
+}
+
+.d {
+    background-color: pink;
+    height: 125px;
+    line-height: 125px;
+    width: 480px;
+}
+
+.e {
+    background-color: brown;
+    height: 250px;
+    line-height: 250px;
+    width: 240px;
+}
+
+.f {
+    background-color: yellow;
+    height: 250px;
+    line-height: 250px;
+    width: 240px;
+}
+
+.g {
+    background-color: black;
+    height: 250px;
+    line-height: 250px;
+    width: 240px;
+}
+
+.h {
+    background-color: purple;
+    height: 250px;
+    line-height: 250px;
+    width: 240px;
+}
+
+.i {
+    background-color: silver;
+    height: 80px;
+    line-height: 80px;
+    width: 480px;
+}
+
+
+@media only screen and (min-width: 769px) {
+
+    .a {
+        background-color: blue;
+        height: 100px;
+        line-height: 100px;
+        width: 960px;
+    }
+    
+    .b {
+        background-color: green;
+        height: 600px;
+        line-height: 600px;
+        width: 200px;
+    }
+    
+    .c {
+        background-color: red;
+        height: 200px;
+        line-height: 200px;
+        width: 380px;
+    }
+    
+    .d {
+        background-color: pink;
+        height: 200px;
+        line-height: 200px;
+        width: 380px;
+    }
+    
+    .e {
+        background-color: brown;
+        height: 250px;
+        line-height: 250px;
+        width: 190px;
+    }
+    
+    .f {
+        background-color: yellow;
+        height: 250px;
+        line-height: 250px;
+        width: 190px;
+    }
+    
+    .g {
+        background-color: black;
+        height: 250px;
+        line-height: 250px;
+        width: 190px;
+    }
+    
+    .h {
+        background-color: purple;
+        height: 250px;
+        line-height: 250px;
+        width: 190px;
+    }
+    
+    .i {
+        background-color: silver;
+        height: 150px;
+        line-height: 150px;
+        width: 760px;
+    }
+    
+}
