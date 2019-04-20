@@ -1,15 +1,16 @@
 body {
     margin: 0px auto;
     width: 480px;
+    display: flex;
+    flex-flow: wrap;
 }
 
 div {
-    float: left;
 }
 
 @media only screen and (min-width: 769px) {
     body {
-        margin: 0px auto;
         width: 960px;
+        justify-content: flex-end;
     }
 }
